@@ -4,3 +4,11 @@ Dentro de la carpeta lab1 correr:
 pip install -r requirements.txt
 ```
 
+Dirigirte a la carpeta program con
+```bash
+cd program
+```
+Luego 
+```
+java -jar (directorio) -Dlanguage=Python3 MiniLang.g4
+```
