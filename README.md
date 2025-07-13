@@ -27,3 +27,18 @@ Luego
 ```
 java -jar (directorio) -Dlanguage=Python3 MiniLang.g4
 ```
+
+Ejecutar el analizador
+```bash
+python Driver.py program_test.txt
+```
+Si el archivo es válido, muestra el árbol sintáctico.
+Si hay errores, ANTLR los imprime en consola.
+
+## Análisis
+
+El archivo .g4 define la gramática del lenguaje con sus tokens y reglas.
+El archivo Driver.py lee un archivo de prueba, tokeniza y parsea el contenido usando ANTLR.
+
+## Video de demostración
+...
