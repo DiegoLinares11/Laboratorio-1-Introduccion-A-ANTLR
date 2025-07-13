@@ -1,4 +1,6 @@
 # Laboratorio-1-Introduccion a ANTLR
+## Video de demostración
+[Ver video en YouTube](https://youtu.be/33GuEELrwKw)
 
 ## Descripción
 
@@ -40,6 +42,5 @@ Si hay errores, ANTLR los imprime en consola.
 El archivo .g4 define la gramática del lenguaje con sus tokens y reglas.
 El archivo Driver.py lee un archivo de prueba, tokeniza y parsea el contenido usando ANTLR.
 
-## Video de demostración
-[Ver video en YouTube](https://youtu.be/33GuEELrwKw)
+
 
